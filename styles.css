@@ -3,6 +3,7 @@ html {
 }
 header {
   background-color: #151517;
+  padding:30px 2%;
 }
 main {
   background-color: #a2cefe;
@@ -113,3 +114,4 @@ li {
   font-size: 25px;
 
 }
+
