@@ -1,0 +1,114 @@
+html {
+  background-color: #87b4e4;
+}
+header {
+  background-color: #151517;
+}
+main {
+  background-color: #a2cefe;
+}
+.para p {
+  padding-right: 10%;
+  font-size: 33px;
+}
+ul p {
+  color: #151517;
+}
+.web-dev {
+  color: white;
+  margin-left: 0%;
+}
+p {
+  display: inline-block;
+  color: #151517;
+  padding-top: 2%;
+  padding-bottom: 2px;
+  padding-left: 10%;
+  padding-right: 42%;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: bold;
+  margin: 0;
+  vertical-align: middle;
+  margin-bottom: 0;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+li,
+a {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: #151517;
+  text-decoration: none;
+  padding: 2px;
+}
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 80%;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: end;
+  padding: 2px 5%;
+}
+
+.logo {
+  cursor: pointer;
+  padding: 0;
+}
+
+.nav_links {
+  list-style: none;
+  margin: 5px;
+}
+
+.nav_links li {
+  display: inline-block;
+  padding: 0% 20px;
+}
+
+.nav_links li a {
+  font-size: 17.5px;
+  transition: all 0.3s ease 0s;
+}
+
+.nav_links li a:hover {
+  color: rgb(54, 175, 219);
+}
+body {
+  background-color: #96bbed;
+}
+.QR-code {
+  height: 20%;
+  width: 20%;
+  border-radius: 10%;
+}
+.link {
+  font-size: 25px;
+  color: red;
+  margin-left: 15%;
+}
+h1,
+h2 {
+  padding-left: 10%;
+  padding-top: 2%;
+  color: rgb(236, 44, 44);
+}
+.img-relevance {
+  height: 40%;
+  width: 60%;
+}
+li {
+  font-size: 25px;
+}
