@@ -112,7 +112,10 @@ h2 {
 }
 li {
   font-size: 25px;
-
 }
+@media (min-width: 320px) {
+font-size: 35px;
+}
+
 
 
