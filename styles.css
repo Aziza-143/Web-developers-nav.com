@@ -113,18 +113,19 @@ h2 {
 li {
   font-size: 25px;
 }
-@media (min-width: 320px) {
-header p {
-  font-size:35px;
- }
 .navbar-toggler-icon {
 width: 3em;
 height: 3em;
 }
+@media (min-width: 320px) {
+header p {
+  font-size:35px;
+ }
   .a {
 font-size: 30px;
   }
 }
+
 
 
 
