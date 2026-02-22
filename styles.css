@@ -9,8 +9,9 @@ main {
   background-color: #a2cefe;
 }
 .para p {
-  padding-right: 10%;
-  font-size: 33px;
+  padding-right: 5%;
+  font-size: 30px;
+  padding-left: 5%;
 }
 ul p {
   color: #151517;
@@ -129,6 +130,7 @@ height: 40%;
 width: 95%;
   }
 }
+
 
 
 
