@@ -117,13 +117,14 @@ li {
 header p {
   font-size:35px;
  }
-navbar-toggler {
-font-size: 3.5rem
+.navbar-toggler {
+font-size: 3.5rem;
 }
   .a {
 font-size: 30px;
   }
 }
+
 
 
 
