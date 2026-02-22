@@ -124,7 +124,12 @@ header p {
   .a {
 font-size: 30px;
   }
+  .img-relevance {
+height: 40%;
+width: 95%;
+  }
 }
+
 
 
 
