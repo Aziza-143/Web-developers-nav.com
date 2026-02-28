@@ -127,9 +127,14 @@ font-size: 30px;
   }
   .img-relevance {
 height: 40%;
-width: 95%;
+width: 75%;
   }
 }
+.img-beauty {
+  height: 20%;
+  width: 80%;
+}
+
 
 
 
